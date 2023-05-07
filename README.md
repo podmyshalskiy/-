@@ -26,6 +26,7 @@
 https://podmyshalskiy.atlassian.net/wiki/spaces/~6362a545b7b39379d721712b/pages/589832/.+1-+2-
 
 podmyshalskiy@mail.ru
+
 QA30102022
 
 <h3>Выводы</h3>
@@ -47,6 +48,7 @@ QA30102022
 https://podmyshalskiy.atlassian.net/wiki/spaces/~6362a545b7b39379d721712b/pages/589832/.+1-+2-
 
 podmyshalskiy@mail.ru
+
 QA30102022
 
 <h3>Выводы</h3>
