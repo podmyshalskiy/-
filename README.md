@@ -4,7 +4,7 @@
 
 <h2>Мои навыки</h2>
 <strong>Jira</strong>, <strong>Sitechko</strong>, <strong>Qase.io</strong>, <strong>Confluence</strong>, <strong>Trello</strong>,
-<strong>API</strong>, <strong>Postman</strong>, <strong>Swagger</strong>, <strong>Mockoon</strong>, <strong>SoapUI</strong>, <strong>Chrome DevTools</strong>, <strong>SQL</strong>
+<strong>API</strong>, <strong>Postman</strong>, <strong>Swagger</strong>, <strong>SoapUI</strong>, <strong>Chrome DevTools</strong>, <strong>SQL</strong>
 
 <h2>Проекты</h2>
 <h3>Проект 1:</h3>
