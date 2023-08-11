@@ -67,6 +67,7 @@ QA30102022
 https://team6-qa35.atlassian.net/wiki/spaces/~712020b35d92f6b9de4cc09f95c51c420ae75b/pages/1998849/3+-
 
 team6qa35@yandex.ru
+
 hhNx3$stPz
 
 
