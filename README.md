@@ -66,6 +66,9 @@ pass: QA30102022
 </ol>
 <h3>Ссылка на проект:</h3>
 https://team6-qa35.atlassian.net/wiki/spaces/~712020b35d92f6b9de4cc09f95c51c420ae75b/pages/1998849/3+-
+
+
+
 login:
 team6qa35@yandex.ru
 
